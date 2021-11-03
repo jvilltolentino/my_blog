@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on The Electrical Engineer&#39;s Portfolio</title>
+    <link>https://theElectricalengineersblog.com/post/</link>
+    <description>Recent content in Projects on The Electrical Engineer&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>The Electrical Engineer  2018 -</copyright>
+    <lastBuildDate>Wed, 02 May 2018 12:00:00 -0500</lastBuildDate><atom:link href="https://theElectricalengineersblog.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(On- Going) Project 3: Stock Analyzer using Shiny</title>
+      <link>https://theElectricalengineersblog.com/post/project-5/</link>
+      <pubDate>Tue, 05 Oct 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://theElectricalengineersblog.com/post/project-5/</guid>
+      <description>This project is under construction! Idea: Front -&amp;gt; Back Dev -&amp;gt; Deploy Things to learn:  Shiny mongoDB Amazon EC2 Docker javaScript and others &amp;hellip;  Kindly drop me an email if there are any skills I need to acquire.
+I would be extremely grateful.
+ Thank you, have a nice day ahead of you! =) </description>
+    </item>
+    
+    <item>
+      <title>Specialization: Time Series Analysis and its Models (Classic, Machine, Deep)</title>
+      <link>https://theElectricalengineersblog.com/post/project-4/</link>
+      <pubDate>Wed, 07 Jul 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://theElectricalengineersblog.com/post/project-4/</guid>
+      <description>&amp;ldquo;Time is gold. It is our most valuable asset.&amp;rdquo; &amp;ldquo;Thus, understanding things that involves time will be rewarding, may be as a person or as a business man.&amp;quot;
+In this post, I will be sharing my two years of search about Time Series, and how we must deal with it.
+First, let us define Time Series.
+According to Investopedia.com, &amp;ldquo;A time series is a sequence of data points that occur in successive order over some period of time.</description>
+    </item>
+    
+    <item>
+      <title>Review: Forecasting Competition  </title>
+      <link>https://theElectricalengineersblog.com/post/review/</link>
+      <pubDate>Wed, 12 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://theElectricalengineersblog.com/post/review/</guid>
+      <description>&amp;ldquo;Forecasting is not fortune telling. It is a scientific and mathematical approach to give businesses insights of what might happen in the future i.e. trends and seasonality. However, it is never accurate yet it is useful.&amp;quot;
+Nowadays, many businesses lose money and understanding the why it happenned and when will it happen is crucial in mitigating the continuous downtrend of the business status.
+Today, I am going to give you a glimpse on how forecasting is being done for the past 7 years.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Seeing into the Future</title>
+      <link>https://theElectricalengineersblog.com/post/project-3/</link>
+      <pubDate>Wed, 31 Mar 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://theElectricalengineersblog.com/post/project-3/</guid>
+      <description>Hi! It&amp;rsquo;s my birthday today. Thank you for passing by! Without further ado, let&amp;rsquo;s start seeing my future!
+ Nah! I’m just fooling around.
+Now, let us become serious, here is an approach to a financial time series data.
+What to expect in project?
+In this project, I&amp;rsquo;ll try to analyze the effect of events when in a weekly transaction dataset. Expect visualizations that involves:
+1. Autocorrelations and PACF 2. Transformations (Log and Standard) 3.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Product Pricing Prediction Algorithm with XGBoost</title>
+      <link>https://theElectricalengineersblog.com/post/project-2/</link>
+      <pubDate>Tue, 30 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://theElectricalengineersblog.com/post/project-2/</guid>
+      <description>Problem Statement
+The R&amp;amp;D department needs assistance in coming up with new product concepts and pricing based on the current product line.
+Solution Summary
+The following are some of the product gaps we’ve found in the current line of products.
+ Aluminum Over Mountain Aluminum Triathalon  To estimate the price of new bicycle models based on the current fleet. A pricing model using predictive analytics is developed. This keeps the price of new models in line with those of similar models in the marketplace.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Customer Segmentation</title>
+      <link>https://theElectricalengineersblog.com/post/project-1/</link>
+      <pubDate>Thu, 13 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://theElectricalengineersblog.com/post/project-1/</guid>
+      <description>Problem Statement: A marketing department wishes to boost email campaign engagement by grouping or segmenting customers based on their purchasing behaviors.
+Solution Summary Four distinct customer segments have been identified using K-means clustering and UMAP 2D Projection. The four customer segments were described using the customer’s most recent product purchases.
+ Segment 1 Preferences: Road Bikes, Below $3200 (Economical Models) Segment 2 Preferences: Mountain Bikes, Above $3200 (Premium Models) Segment 3 Preferences: Road Bikes, Above $3200 (Premium Models) Segment 4 Preferences: Both Road and Mountain, Below $3200 (Economical Models)  Customer Preferences</description>
+    </item>
+    
+  </channel>
+</rss>

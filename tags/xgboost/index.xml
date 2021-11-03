@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XGBoost on The Electrical Engineer&#39;s Portfolio</title>
+    <link>https://theElectricalengineersblog.com/tags/xgboost/</link>
+    <description>Recent content in XGBoost on The Electrical Engineer&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>The Electrical Engineer  2018 -</copyright>
+    <lastBuildDate>Tue, 30 Jun 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://theElectricalengineersblog.com/tags/xgboost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Product Pricing Prediction Algorithm with XGBoost</title>
+      <link>https://theElectricalengineersblog.com/post/project-2/</link>
+      <pubDate>Tue, 30 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://theElectricalengineersblog.com/post/project-2/</guid>
+      <description>Problem Statement
+The R&amp;amp;D department needs assistance in coming up with new product concepts and pricing based on the current product line.
+Solution Summary
+The following are some of the product gaps we’ve found in the current line of products.
+ Aluminum Over Mountain Aluminum Triathalon  To estimate the price of new bicycle models based on the current fleet. A pricing model using predictive analytics is developed. This keeps the price of new models in line with those of similar models in the marketplace.</description>
+    </item>
+    
+  </channel>
+</rss>

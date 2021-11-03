@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feature engineering on The Electrical Engineer&#39;s Portfolio</title>
+    <link>https://theElectricalengineersblog.com/tags/feature-engineering/</link>
+    <description>Recent content in feature engineering on The Electrical Engineer&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>The Electrical Engineer  2018 -</copyright>
+    <lastBuildDate>Wed, 12 May 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://theElectricalengineersblog.com/tags/feature-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review: Forecasting Competition  </title>
+      <link>https://theElectricalengineersblog.com/post/review/</link>
+      <pubDate>Wed, 12 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://theElectricalengineersblog.com/post/review/</guid>
+      <description>&amp;ldquo;Forecasting is not fortune telling. It is a scientific and mathematical approach to give businesses insights of what might happen in the future i.e. trends and seasonality. However, it is never accurate yet it is useful.&amp;quot;
+Nowadays, many businesses lose money and understanding the why it happenned and when will it happen is crucial in mitigating the continuous downtrend of the business status.
+Today, I am going to give you a glimpse on how forecasting is being done for the past 7 years.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Seeing into the Future</title>
+      <link>https://theElectricalengineersblog.com/post/project-3/</link>
+      <pubDate>Wed, 31 Mar 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://theElectricalengineersblog.com/post/project-3/</guid>
+      <description>Hi! It&amp;rsquo;s my birthday today. Thank you for passing by! Without further ado, let&amp;rsquo;s start seeing my future!
+ Nah! I’m just fooling around.
+Now, let us become serious, here is an approach to a financial time series data.
+What to expect in project?
+In this project, I&amp;rsquo;ll try to analyze the effect of events when in a weekly transaction dataset. Expect visualizations that involves:
+1. Autocorrelations and PACF 2. Transformations (Log and Standard) 3.</description>
+    </item>
+    
+  </channel>
+</rss>
