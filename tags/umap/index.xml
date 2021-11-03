@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UMAP on The Electrical Engineer&#39;s Portfolio</title>
-    <link>https://theElectricalengineersblog.com/tags/umap/</link>
+    <link>https://jvilltolentino.github.io/my_blog/tags/umap/</link>
     <description>Recent content in UMAP on The Electrical Engineer&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Electrical Engineer  2018 -</copyright>
-    <lastBuildDate>Thu, 13 Feb 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://theElectricalengineersblog.com/tags/umap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Feb 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://jvilltolentino.github.io/my_blog/tags/umap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1: Customer Segmentation</title>
-      <link>https://theElectricalengineersblog.com/post/project-1/</link>
+      <link>https://jvilltolentino.github.io/my_blog/post/project-1/</link>
       <pubDate>Thu, 13 Feb 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://theElectricalengineersblog.com/post/project-1/</guid>
+      <guid>https://jvilltolentino.github.io/my_blog/post/project-1/</guid>
       <description>Problem Statement: A marketing department wishes to boost email campaign engagement by grouping or segmenting customers based on their purchasing behaviors.
 Solution Summary Four distinct customer segments have been identified using K-means clustering and UMAP 2D Projection. The four customer segments were described using the customer’s most recent product purchases.
  Segment 1 Preferences: Road Bikes, Below $3200 (Economical Models) Segment 2 Preferences: Mountain Bikes, Above $3200 (Premium Models) Segment 3 Preferences: Road Bikes, Above $3200 (Premium Models) Segment 4 Preferences: Both Road and Mountain, Below $3200 (Economical Models)  Customer Preferences</description>

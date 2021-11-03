@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About me on The Electrical Engineer&#39;s Portfolio</title>
-    <link>https://theElectricalengineersblog.com/about/</link>
+    <link>https://jvilltolentino.github.io/my_blog/about/</link>
     <description>Recent content in About me on The Electrical Engineer&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>The Electrical Engineer  2018 -</copyright><atom:link href="https://theElectricalengineersblog.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The Electrical Engineer  2018 -</copyright><atom:link href="https://jvilltolentino.github.io/my_blog/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
