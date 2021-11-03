@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>time series analysis on The Electrical Engineer&#39;s Portfolio</title>
-    <link>https://theElectricalengineersblog.com/tags/time-series-analysis/</link>
+    <link>https://jvilltolentino.github.io/my_blog/tags/time-series-analysis/</link>
     <description>Recent content in time series analysis on The Electrical Engineer&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Electrical Engineer  2018 -</copyright>
-    <lastBuildDate>Wed, 07 Jul 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://theElectricalengineersblog.com/tags/time-series-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://jvilltolentino.github.io/my_blog/tags/time-series-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Specialization: Time Series Analysis and its Models (Classic, Machine, Deep)</title>
-      <link>https://theElectricalengineersblog.com/post/project-4/</link>
+      <link>https://jvilltolentino.github.io/my_blog/post/project-4/</link>
       <pubDate>Wed, 07 Jul 2021 11:15:58 -0400</pubDate>
       
-      <guid>https://theElectricalengineersblog.com/post/project-4/</guid>
+      <guid>https://jvilltolentino.github.io/my_blog/post/project-4/</guid>
       <description>&amp;ldquo;Time is gold. It is our most valuable asset.&amp;rdquo; &amp;ldquo;Thus, understanding things that involves time will be rewarding, may be as a person or as a business man.&amp;quot;
 In this post, I will be sharing my two years of search about Time Series, and how we must deal with it.
 First, let us define Time Series.

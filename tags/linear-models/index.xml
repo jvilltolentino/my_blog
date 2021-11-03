@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>linear models on The Electrical Engineer&#39;s Portfolio</title>
-    <link>https://theElectricalengineersblog.com/tags/linear-models/</link>
+    <link>https://jvilltolentino.github.io/my_blog/tags/linear-models/</link>
     <description>Recent content in linear models on The Electrical Engineer&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Electrical Engineer  2018 -</copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://theElectricalengineersblog.com/tags/linear-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Mar 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://jvilltolentino.github.io/my_blog/tags/linear-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 3: Seeing into the Future</title>
-      <link>https://theElectricalengineersblog.com/post/project-3/</link>
+      <link>https://jvilltolentino.github.io/my_blog/post/project-3/</link>
       <pubDate>Wed, 31 Mar 2021 11:13:32 -0400</pubDate>
       
-      <guid>https://theElectricalengineersblog.com/post/project-3/</guid>
+      <guid>https://jvilltolentino.github.io/my_blog/post/project-3/</guid>
       <description>Hi! It&amp;rsquo;s my birthday today. Thank you for passing by! Without further ado, let&amp;rsquo;s start seeing my future!
  Nah! I’m just fooling around.
 Now, let us become serious, here is an approach to a financial time series data.
